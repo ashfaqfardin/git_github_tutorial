@@ -8,32 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb5a20e0c003ee62",
+            "id": "069bc990b72b5778",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & GitHub Tutorial.md",
+                "file": "Understanding Git's Architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bf512ae9c2f113f1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "34f951b920598664",
+            "id": "d9fa7d93376ffcd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Branching and Merging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e2ad6f61913a0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Working with GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Working with GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Working with GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Working with GitHub.md"
               }
             }
           }
@@ -167,9 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34f951b920598664",
+  "active": "3e2ad6f61913a0f8",
   "lastOpenFiles": [
-    "Readme.md",
-    "Git & GitHub Tutorial.md"
+    "Working with GitHub.md",
+    "Advance Git Operations.md",
+    "Branching and Merging.md",
+    "Understanding Git's Architecture.md",
+    "Basic Git Commands.md",
+    "Readme.md"
   ]
 }
