@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf512ae9c2f113f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "34f951b920598664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git & GitHub Tutorial.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git & GitHub Tutorial.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git & GitHub Tutorial.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -146,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb5a20e0c003ee62",
+  "active": "34f951b920598664",
   "lastOpenFiles": [
+    "Readme.md",
     "Git & GitHub Tutorial.md"
   ]
 }
