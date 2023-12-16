@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d468a1b70b1154a",
+            "id": "eb5a20e0c003ee62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git - Test.md",
+                "file": "Git & GitHub Tutorial.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "eb5a20e0c003ee62",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git - Test.md",
+                "file": "Git & GitHub Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git - Test.md",
+                "file": "Git & GitHub Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git - Test.md"
+                "file": "Git & GitHub Tutorial.md"
               }
             }
           }
@@ -159,6 +148,6 @@
   },
   "active": "eb5a20e0c003ee62",
   "lastOpenFiles": [
-    "Git - Test.md"
+    "Git & GitHub Tutorial.md"
   ]
 }
