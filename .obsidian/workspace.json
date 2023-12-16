@@ -8,43 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "069bc990b72b5778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Understanding Git's Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d9fa7d93376ffcd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Branching and Merging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e2ad6f61913a0f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Working with GitHub.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working with GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working with GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Working with GitHub.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,13 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e2ad6f61913a0f8",
+  "active": "d9fa7d93376ffcd7",
   "lastOpenFiles": [
-    "Working with GitHub.md",
-    "Advance Git Operations.md",
+    "Untitled.md",
+    "_config.yml",
+    "_config (1).yml",
+    "Readme.md",
     "Branching and Merging.md",
     "Understanding Git's Architecture.md",
-    "Basic Git Commands.md",
-    "Readme.md"
+    "Working with GitHub.md",
+    "Advance Git Operations.md",
+    "Basic Git Commands.md"
   ]
 }
